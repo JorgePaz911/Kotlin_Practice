@@ -19,7 +19,7 @@ fun main(){
     println(numNum)
 
 
-    practice1("Jorge")
+    practice1("Jor\nge")
 
 
     addNums(10,20)
